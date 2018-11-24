@@ -1,0 +1,75 @@
+#header{
+    background-color: #E9E3E3;
+    border-bottom: 2px solid white;
+    margin:0;
+    padding:0;
+  }
+  
+  img{
+    display: inline-block;
+  }
+  
+  nav li{
+    display: inline-block;
+  }
+  header a:link{
+   text-decoration: none; 
+   color: gray; 
+  }
+  header a:hover{
+    color: black;
+  }
+  header a:active{
+    text-decoration: underline;
+    color:blue;
+  }
+  button{
+    background: blue;
+    color: white;
+    padding: 0.4rem;
+    float: right;
+  }
+  body{
+    background-color:pink;
+  }
+  .result{
+    padding-top: 1.5em;
+  }
+  #direction{
+    color: green;
+  }
+  body a:link{
+   text-decoration: none; 
+   color: blue; 
+  }
+  body a:hover{
+    text-decoration:underline;
+  }
+  
+  footer{
+    background-color: #E9E3E3;
+    border-top: 2px solid white;
+    padding: 0.2rem;
+  }
+  
+  #mex{
+    float:left;
+    padding-right: 0.3rem;
+    border-right: 2px solid gray;
+  }
+  #gps{
+    font-weight: bold;
+    padding-left: 0.3rem;
+  }
+  
+  footer a:link{
+   text-decoration: none; 
+   color: gray; 
+  }
+  footer a:hover{
+    color: black;
+  }
+  footer a:active{
+    text-decoration: underline;
+    color:blue;
+  }
